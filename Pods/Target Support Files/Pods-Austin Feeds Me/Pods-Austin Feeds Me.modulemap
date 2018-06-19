@@ -1,0 +1,6 @@
+framework module Pods_Austin_Feeds_Me {
+  umbrella header "Pods-Austin Feeds Me-umbrella.h"
+
+  export *
+  module * { export * }
+}
